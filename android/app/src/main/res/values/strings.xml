@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BeautyDoz</string>
+
+    <string name="facebook_app_id">434578514992494</string>
+    <string name="fb_login_protocol_scheme">fb434578514992494</string>
+
+
+    <!-- Replace "000000000000" with your Facebook App ID here. -->
+    <!-- <string name="facebook_app_id">1119935925127918</string> -->
+
+    <!--
+      Replace "000000000000" with your Facebook App ID here.
+      **NOTE**: The scheme needs to start with `fb` and then your ID.
+    -->
+    <!-- <string name="fb_login_protocol_scheme">fb1119935925127918</string> -->
+</resources>

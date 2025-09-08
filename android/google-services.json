@@ -1,0 +1,49 @@
+{
+    "project_info": {
+        "project_number": "521480091619",
+        "firebase_url": "https://beutydoz.firebaseio.com",
+        "project_id": "beutydoz",
+        "storage_bucket": "beutydoz.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:521480091619:android:080c1349d96d9cb0d5d2d6",
+            "android_client_info": {
+                "package_name": "com.overrideeg.apps.beautydoz"
+            }
+        },
+        "oauth_client": [{
+                "client_id": "521480091619-elgeonho6f9pmqeatk7v2a10od0lhu3h.apps.googleusercontent.com",
+                "client_type": 1,
+                "android_info": {
+                    "package_name": "com.overrideeg.apps.beautydoz",
+                    "certificate_hash": "1d2026d0ef9d9f7d30bc8ad675ad11516459910d"
+                }
+            },
+            {
+                "client_id": "521480091619-482l5pukpj6p321kiel8i6u2lgf730d4.apps.googleusercontent.com",
+                "client_type": 3
+            }
+        ],
+        "api_key": [{
+            "current_key": ""
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                        "client_id": "521480091619-482l5pukpj6p321kiel8i6u2lgf730d4.apps.googleusercontent.com",
+                        "client_type": 3
+                    },
+                    {
+                        "client_id": "521480091619-omc9i44st21uago3jdsmhjvo3ns95i1i.apps.googleusercontent.com",
+                        "client_type": 2,
+                        "ios_info": {
+                            "bundle_id": "com.overrideeg.apps.beautydoz"
+                        }
+                    }
+                ]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
